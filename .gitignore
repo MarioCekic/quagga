@@ -43,4 +43,3 @@ cscope.*
 *.pb.h
 *.pb-c.h
 *.pb-c.c
-.idea/*
